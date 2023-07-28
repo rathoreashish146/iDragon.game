@@ -18,6 +18,6 @@ Disclaimer
 This game is a personal project and meant for educational and entertainment purposes only. All assets used in the game are either created by me or sourced from free-to-use resources with proper attribution.
 
 Support
-If you encounter any issues while playing the game or have suggestions for improvements, feel free to contact me at your_email@example.com.
+If you encounter any issues while playing the game or have suggestions for improvements, feel free to contact me at rathoreashish@gmail.com.
 
 Enjoy the game and have fun!
