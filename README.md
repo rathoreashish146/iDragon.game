@@ -1,5 +1,7 @@
 # i Dragon Action Game 
 
+Hosted Link : https://rathoreashish146.github.io/iDragon.game/
+
 This is an action-packed game created using only HTML, CSS, and JavaScript. 
 
 Controls
@@ -21,3 +23,5 @@ Support
 If you encounter any issues while playing the game or have suggestions for improvements, feel free to contact me at rathoreashish@gmail.com.
 
 Enjoy the game and have fun!
+![image](https://github.com/rathoreashish146/iDragon.game/assets/117078265/9ce87af7-f358-4d3f-82de-ea2693723d40)
+
